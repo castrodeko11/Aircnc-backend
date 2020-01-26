@@ -1,5 +1,3 @@
 # Ignore Dependecies
 node_modules
 
-# Directory empty
-touch uploads/.gitignore
