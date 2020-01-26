@@ -3,10 +3,10 @@ const mongoose = require('mongoose');
 const routes = require('./routes');
 const cors = require('cors');
 const path = require('path');
-
 const app = express();
+require('dotenv').config();
 
-mongoose.connect('mongodb+srv://oministack9:oministack9@cluster0-yowmc.mongodb.net/semana09?retryWrites=true&w=majority', {
+mongoose.connect(process.env.MONGO_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
