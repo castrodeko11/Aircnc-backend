@@ -25,9 +25,6 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 
 Você pode visualizaro layout do projeto `Figma` através [desse link](https://www.figma.com/file/Pv3gLMKIQK4cnldhtQJvWd/aircnc?node-id=0%3A1).
 
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
-
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
