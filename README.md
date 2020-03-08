@@ -3,7 +3,7 @@ Heroku-deploy (https://facebook.github.io/react-native/)
 
 
 <h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />  
+    <img alt="Aircnc" title="#delicinha" src="https://github.com/castrodeko11/Aircnc-frontend/tree/master/src/assets/logo.png" width="250px" />  
 </h1>
 
 <h4 align="center">
