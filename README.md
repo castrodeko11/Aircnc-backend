@@ -1,21 +1,7 @@
 # Aircnc-backend
-Heroku-deploy (https://facebook.github.io/react-native/)
+Heroku-deploy
 
-
-<h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src="https://github.com/castrodeko11/Aircnc-frontend/tree/master/src/assets/logo.png" width="250px" />  
-</h1>
-
-<h4 align="center">
-  ☕ Code and coffee
-  
-</h4>
-
-<br>
-
-<p align="center">
-  <img alt="Frontend" src=".github/aircnc.png" width="100%">
-</p>
+deploy-aircnc-frontend.herokuapp.com/
 
 ## :rocket: Tecnologias
 
