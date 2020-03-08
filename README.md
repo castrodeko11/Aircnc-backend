@@ -23,7 +23,7 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
+Você pode visualizaro layout do projeto `Figma` através [desse link](https://www.figma.com/file/Pv3gLMKIQK4cnldhtQJvWd/aircnc?node-id=0%3A1).
 
 Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
 
