@@ -1,5 +1,5 @@
-## :rocket: Aircnc-backend
-[Heroku-deploy] (deploy-aircnc-frontend.herokuapp.com/)
+## Aircnc-backend
+[Heroku.deploy] (http://deploy-aircnc-frontend.herokuapp.com/)
 
 deploy-aircnc-frontend.herokuapp.com/
 
