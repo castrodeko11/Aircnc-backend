@@ -1,5 +1,5 @@
 ## Aircnc-backend
-[Heroku.deploy](http://deploy-aircnc-frontend.herokuapp.com/)
+[Heroku.AirCnc](http://deploy-aircnc-frontend.herokuapp.com/)
 
 deploy-aircnc-frontend.herokuapp.com/
 
