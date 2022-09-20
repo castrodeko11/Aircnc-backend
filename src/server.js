@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const routes = require('./routes');
 const cors = require('cors');
 const path = require('path');
-const socketio = require ('socket.io');
+const socketio = require ('socket.io-client');
 const http= require('http');
 const serverless = require("serverless-http");
 
