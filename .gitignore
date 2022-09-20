@@ -1,4 +1,4 @@
 # Ignore Dependecies
 node_modules
 .env
-
+functions
