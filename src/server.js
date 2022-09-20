@@ -3,9 +3,8 @@ const mongoose = require('mongoose');
 const routes = require('./routes');
 const cors = require('cors');
 const path = require('path');
-const socketio = require ('socket.io-client');
+const socketio = require ('socket.io');
 const http= require('http');
-const serverless = require("serverless-http");
 
 require('dotenv').config();
 
@@ -58,7 +57,6 @@ app.use('/files',express.static(path.resolve(__dirname,'..','uploads')));
 app.use(routes);
 
 server.listen(process.env.PORT || 3333);
-module.exports.handler = serverless(app);
 
 //req.query = Acessar query params (para filtros)
 //req.params = Acessar route params (para edição, delete)
