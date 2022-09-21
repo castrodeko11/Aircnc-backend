@@ -62,8 +62,6 @@ app.use(routes);
 
 server.listen(process.env.PORT || 3333);
 
-module.exports = app
-
 //req.query = Acessar query params (para filtros)
 //req.params = Acessar route params (para edição, delete)
 //req.body = Acessar corpo da requisição (para criação, edição)
